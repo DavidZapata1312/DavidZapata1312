@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Zapata</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Ruby, Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavidZapata1312](https://github.com/DavidZapata1312)
 
